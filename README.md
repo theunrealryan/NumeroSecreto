@@ -1,1 +1,1 @@
-Projeto básico de lógica com JavaScript desenvolvido em trilha da Alura.
+Projeto básico de lógica de programação com JavaScript desenvolvido em trilha da Alura.
